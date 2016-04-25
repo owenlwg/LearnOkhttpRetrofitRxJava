@@ -1,0 +1,18 @@
+.gradle
+.idea
+/local.properties
+/build
+/captures
+*.iml
+
+.DS_Store #only needed under mac os
+
+*.apk #optional
+*.log
+*.keystore
+*.jks
+
+/Test*
+/MaterialDesignDemo*
+/butterknife*
+/RxJava
